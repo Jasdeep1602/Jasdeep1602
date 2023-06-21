@@ -4,6 +4,10 @@
 - 🔭 I’m currently working on a E-Commerce website.
 - 🌱 I’m learning Full Stack Development.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
+ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
+
 
 ### Skills
 - React
@@ -18,7 +22,7 @@
 - Fluent Communication
 - Excellent Algorithmic Knowledge
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
+
 
 <!--
 **Jasdeep1602/Jasdeep1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
