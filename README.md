@@ -3,6 +3,19 @@
 - 🌱 I’m learning Full Stack Development.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 
+### Skills
+- React
+- HTML/CSS
+- TailWind
+- BootStrap
+- FireBase
+- Git/GitHub
+- Node JS
+- Mongo DB
+- C/C++
+- Fluent Communication
+- Excellent Algorithmic Knowledge
+
 <!--
 **Jasdeep1602/Jasdeep1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
