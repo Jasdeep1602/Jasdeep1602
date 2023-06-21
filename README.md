@@ -7,9 +7,8 @@
 - Excellent Algorithmic Knowledge.
 - How to reach me: singhjasdeep1602@gmail.com
 
-  ---
+---
  
-
 ### Languages and Tools
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -26,7 +25,7 @@
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
+----
 
 
 
