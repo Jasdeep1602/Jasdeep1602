@@ -5,8 +5,6 @@
 - 🌱 I’m learning Full Stack Development.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasdeep1602&show_icons=true&theme=radical)
-
 ### Skills
 - React
 - HTML/CSS
@@ -19,6 +17,8 @@
 - C/C++
 - Fluent Communication
 - Excellent Algorithmic Knowledge
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
 
 <!--
 **Jasdeep1602/Jasdeep1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
