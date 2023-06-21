@@ -9,6 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
 
 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ### Skills
 - React
 - HTML/CSS
