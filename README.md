@@ -5,7 +5,7 @@
 - Learning Full Stack Development.
 - Fluent Communication.
 - Excellent Algorithmic Knowledge.
-- 📫 How to reach me: singhjasdeep1602@gmail.com
+- How to reach me: singhjasdeep1602@gmail.com
  
 
 ### Skills
