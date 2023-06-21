@@ -5,6 +5,8 @@
 - 🌱 I’m learning Full Stack Development.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasdeep1602&show_icons=true&theme=radical)
+
 ### Skills
 - React
 - HTML/CSS
