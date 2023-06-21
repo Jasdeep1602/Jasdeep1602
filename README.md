@@ -6,6 +6,8 @@
 - Fluent Communication.
 - Excellent Algorithmic Knowledge.
 - How to reach me: singhjasdeep1602@gmail.com
+
+  ---
  
 
 ### Languages and Tools
