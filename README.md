@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a E-Commerce website.
 - 🌱 I’m currently learning Full Stack Development.
-- - 📫 How to reach singhjasdeep1602@gmail.com,linkedin.com/in/jasdeep-singh-lm10
+- - 📫 How to reach singhjasdeep1602@gmail.com, linkedin.com/in/jasdeep-singh-lm10
 
 <!--
 **Jasdeep1602/Jasdeep1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
