@@ -2,7 +2,7 @@
  The belief that keeps me fueled is persistence. It alone is enough to be successful in life.
   I believe learning to be a habit, as we stop growing the day, we stop learning.
   
-- I’m currently working on a E-Commerce website
+- I’m currently working on an E-Commerce website
 - Front-End React Developer
 - Learning Full Stack Development
 - Fluent Communication
