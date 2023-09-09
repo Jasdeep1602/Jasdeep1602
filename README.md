@@ -3,7 +3,6 @@
   I believe learning to be a habit, as we stop growing the day, we stop learning.
 
 - Front-End React Developer
-- Learning Full Stack Development
 - Fluent Communication
 - Excellent Algorithmic Knowledge
 - How to reach me: singhjasdeep1602@gmail.com
