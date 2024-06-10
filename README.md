@@ -6,3 +6,6 @@
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
+
