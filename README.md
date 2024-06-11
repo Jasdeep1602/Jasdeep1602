@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Nest.js.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
+- Resume: https://drive.google.com/file/d/1dIDWG5eUl9PdZt89cw9fM5J3TGxYVfaS/view?usp=drive_link
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
 
