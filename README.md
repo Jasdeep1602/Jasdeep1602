@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on snapBuy MERN Stack Project.
-- 🌱 I’m currently learning Nest.js.
+- 🔭 I’m currently working on Notes, a Full Stack Project.
+- 🌱 I’m currently learning Angular and c#.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 - Resume: https://drive.google.com/file/d/1JLQughQh9eii5d5rWWeX869p7h7ZxJCn/view?usp=sharing
