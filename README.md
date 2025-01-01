@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Notes, a Full Stack Project.
-- 🌱 I’m currently learning Angular and c#.
+- 🌱 I’m currently learning Python and DSA.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 - Resume: https://drive.google.com/file/d/1aLodvU0WwTNNZz83b-v2vZf4MeFp_xos/view?usp=sharing
