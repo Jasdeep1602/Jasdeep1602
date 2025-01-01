@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular and c#.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
-- Resume: [https://drive.google.com/file/d/1JLQughQh9eii5d5rWWeX869p7h7ZxJCn/view?usp=sharing](https://drive.google.com/file/d/1rXuudQDRlZTdWAfnYrVWJ3tnvTVtQPOp/view?usp=sharing)](https://drive.google.com/file/d/1aLodvU0WwTNNZz83b-v2vZf4MeFp_xos/view?usp=sharing)
+- Resume: https://drive.google.com/file/d/1aLodvU0WwTNNZz83b-v2vZf4MeFp_xos/view?usp=sharing
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
 
