@@ -7,10 +7,6 @@
 - Resume: https://drive.google.com/file/d/1lYp6StN8QdUtJiXct_NEJ_KIY0-0kHY4/view?usp=sharing
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=Jasdeep1602)
-
-
-
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
