@@ -28,8 +28,7 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/?username=Jasdeep1602?theme=light)
-
+![](https://leetcard.jacoblin.cool/Jasdeep1602?animation=false)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
