@@ -28,7 +28,7 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Jasdeep1602?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/?username=Jasdeep1602?theme=light)
 
 
 
