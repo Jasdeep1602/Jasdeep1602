@@ -28,8 +28,7 @@
 
 
 
-![](https://leetcard.jacoblin.cool/Jasdeep1602?animation=false)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kylo-Ren?theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep1602&layout=compact)
 
