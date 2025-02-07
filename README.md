@@ -7,9 +7,6 @@
 - Resume: https://drive.google.com/file/d/1lYp6StN8QdUtJiXct_NEJ_KIY0-0kHY4/view?usp=sharing
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Jasdeep1602?theme=dark)
-
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -31,6 +28,7 @@
 
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Jasdeep1602?theme=light)
 
 
 
