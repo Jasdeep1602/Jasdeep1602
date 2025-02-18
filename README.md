@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and DSA.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
-- Resume: https://drive.google.com/file/d/1lYp6StN8QdUtJiXct_NEJ_KIY0-0kHY4/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1x6wec06BadYj2YoGSHoNWnQN8TJW52Pc/view?usp=drive_link
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
