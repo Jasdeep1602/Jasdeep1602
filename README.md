@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on AIverse, a Full Stack Project.
+- 🔭 Turning ideas into code using next.js & curson AI.
 - 🌱 I’m currently learning Python and DSA.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
-- Resume: https://drive.google.com/file/d/1x6wec06BadYj2YoGSHoNWnQN8TJW52Pc/view?usp=drive_link
+- Resume: https://drive.google.com/file/d/14cOZzDc0QdeEBaEpQpuw3tb9Y1KHslL7/view?usp=sharing
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
