@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Turning ideas into code using next.js & curson AI.
-- 🌱 I’m currently learning Python and DSA.
+- 🔭 Turning ideas into code using next.js, nest.js & curson AI.
+- 🌱 I have recently stepped in problem solving(DSA) using Python.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
 - Resume: https://drive.google.com/file/d/1hk_auCfR6nMTZhX29ZA7hWXxDhs48Cu_/view?usp=sharing
