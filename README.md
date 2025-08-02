@@ -4,7 +4,7 @@
 - 🌱 I have recently stepped in problem solving(DSA) using Python.
 - 💬 Ask me about development on client as well as server side.
 - 📫 How to reach me: singhjasdeep1602@gmail.com
-- Resume: https://drive.google.com/file/d/1hk_auCfR6nMTZhX29ZA7hWXxDhs48Cu_/view?usp=sharing
+- Resume: https://drive.google.com/file/d/10wnaktc0GiB3KfATN-Xsn7SjY2K2jJAd/view?usp=sharing
 - ⚡ Interests: Football Fan ⚽ Movie enthusiast 🎥 PC Gamer🖱️
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
